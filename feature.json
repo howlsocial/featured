@@ -1,0 +1,17 @@
+{
+    "featured_accounts": [
+        {
+            "token_id": "callum",
+            "description": "Howl Social Co-founder"
+        },
+        {
+            "token_id": "aswever",
+            "description": "Howl Social Co-founder"
+        },
+        {
+            "token_id": "needlecast",
+            "description": "Howl Social Co-founder"
+        }
+    ],
+    "featured_posts": []
+}
